@@ -56,6 +56,7 @@ function changeColor(color){
         })
 
     }
+    //To fix the shader
     if(color === "shader"){
         
         colorChoice.forEach(square =>{
